@@ -1,2 +1,3 @@
 FreeCodeCamp -Front End Development Libraries Projects: https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine
-My Codepen Link: https://codepen.io/EsraaAbdou/pen/WmvWKy
+
+Preview link: https://quote0-gen.netlify.app/
